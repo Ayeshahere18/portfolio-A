@@ -1,0 +1,489 @@
+
+.nav-item{
+    margin-left:20px;
+}
+
+
+.random{
+    width:20%;
+    height:6vh;
+    border-radius:10px;
+    background-color:palevioletred;
+    font-size:15px;
+    color:white;
+   
+    
+}
+/* .row{
+    border:1px solid green;
+} */
+/* .col-3{
+    border:1px solid yellow;
+}
+.col-9{
+    border:1px solid yellow;
+} */
+/* .col-12{
+    border:1px solid pink;
+} */
+.some{
+    position:absolute;
+    bottom:19px;
+}
+ /* .white{
+    border:1px solid white;
+}  
+ .row{
+    border:1px solid red;
+}   
+   .col-3{
+    border:1px solid yellow;
+} 
+.col-9{
+    border:1px solid yellow;
+}  */
+.color{
+    color:white;
+}
+.text{
+    background-color:#080e1c;
+}
+  /* .col-5{
+    border:1px solid green;
+}
+.col-7{
+    border:1px solid green;
+}   */
+.text1{
+    margin-top:40px;
+    margin-left:10px;
+    color:orange;
+}
+.set{
+    margin-left:50px;
+    border-radius:190px;
+    width:70%;
+    border:7px solid orange;
+    
+    
+}
+
+
+.icion{
+    margin-top:5px;
+}
+.icion1{
+    margin-top:5px;
+}
+.icion2{
+    margin-top:5px;
+}
+.icion3{
+    margin-top:5px;
+}
+.icion4{
+    margin-top:5px;
+}
+.icion5{
+    margin-top:5px;
+}
+.over{
+    color:white;
+}
+.over1{
+    width: 50%;
+    margin-top:10px;
+    height:8vh;
+    font-size:25px;
+    border-radius:22px;
+    color:white;
+    background-color:orange;
+    border:1px solid orange;
+    cursor: pointer;
+    transition:.2s linear;
+    
+}
+.over1:hover{
+    background-color:blue;
+    color:white;
+letter-spacing:5px;
+}
+.part:hover{
+    background-color:blue;
+    color:white;
+letter-spacing:2px;
+}
+.text{
+    height:75vh;
+    display: none;
+   transition:transform 0.10s ease-in;
+}
+
+/* .container{
+    border:1px solid red;
+} */
+html {
+    scroll-behavior: smooth;
+  }
+  /* .col-4{
+    border:1px solid yellow;
+  } 
+   .row{
+    border:1px solid white;
+  } */
+  .ima{
+    background-color:#051229;
+    border-radius:50px;
+  }
+  .ima{
+    /* background-color:#051229;  */
+    background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+    background-size:100% 200%;
+    transition:all .8s;
+  }
+  .ima:hover{
+    background-position: left bottom;
+    color:black;
+    border:none;
+    box-shadow:0 0 20px rgb(255,45,45);
+  }
+   .ima1{
+    /* background-color:#051229;  */
+    background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+    background-size:100% 200%;
+    border-radius:50px;
+    transition:all .8s;
+
+  }
+  .ima1:hover{
+    background-position: left bottom;
+    color:black;
+    border:none;
+    box-shadow:0 0 20px rgb(255,45,45);
+  }
+  
+  .part{
+    width:42% ;
+    height:7vh ;
+    font-size:25px ;
+    background-color:orange ;
+    border-radius:50px;
+    color:white ;
+    border:1px solid orange ;
+  }
+  .code{
+    height:2vh;
+    border-radius:35px;
+    border:1px solid white;
+  }
+  .code1{
+    /* height:2vh; */
+   
+   border-radius:25px;
+    background-color:orange;
+  }
+  .change{
+    text-transform:uppercase;
+    font-size:1em;
+  }
+  .code2{
+    height:2vh;
+    border-radius:35px;
+    border:1px solid white;
+  }
+  .code3{
+    height:2vh;
+   
+   border-radius:25px;
+    background-color:orange;
+  }
+  .upon{
+   margin-left:5px;
+   /* border:1px solid yellow; */
+
+  }
+  /* .col-6{
+    border:1px solid pink;
+  } */
+  .da{
+    border-radius:25px;
+  }
+  #ad{
+    border-radius:190px;
+    border:15px solid orange;
+  }
+  #all{
+    border-radius:190px;
+    border:15px solid orange;
+  }
+  #all1{
+    border-radius:190px;
+    border:15px solid orange;
+  }
+  #all2{
+    border-radius:190px;
+    border:15px solid orange;
+  }
+  /* #on{
+    background-color: #ff9999;
+    animation-name: example;
+    animation-duration: 30s;
+    color:black;
+  }
+  @keyframes example {
+    0%   {background-color: #ff9999;}
+    25%  {background-color: 	 #660000;}
+    50%  {background-color:	#808080 ;}
+    100% {background-color: green;}
+  } */
+/* 
+#fit{
+  animation: myfirst 5s 2;
+  animation-direction: alternate;
+}
+
+@keyframes myfirst {
+  0%   {background: red; left: 20px;right:10px; top: 0px;}
+  25%  {background: yellow; left: 100px; top: 0px;} */
+
+ 
+a:hover{
+  color:orange;
+}
+svg:hover{
+  fill:orange;
+}
+/* .col-md-4{
+  border:1px solid white;
+} */
+.one{
+  margin:auto;
+  margin-top:25px;
+
+}
+.to{
+  margin:auto;
+  margin-top:25px;
+
+}
+.third{
+  margin:auto;
+  
+}
+.four{
+  margin:auto;
+  
+}
+.five{
+  margin:auto;
+  margin-top:27px;
+
+}
+
+
+.on{
+ 
+  background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+  background-size:100% 200%;
+  transition:all .8s;
+  border:1px solid gray;
+  border-radius:50px;
+
+
+}
+.on:hover{
+  background-position: left bottom;
+  color:black;
+  border:none;
+  box-shadow:0 0 20px rgb(255,45,45);
+  
+}
+
+.magic{
+ 
+  background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+  background-size:100% 200%;
+  transition:all .8s;
+  border:1px solid gray;
+  border-radius:50px;
+
+}
+.magic:hover{
+  background-position: left bottom;
+  color:black;
+  border:none;
+  box-shadow:0 0 20px rgb(255,45,45);
+  
+}
+
+.onn{
+ 
+  background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+  background-size:100% 200%;
+  transition:all .8s;
+  border:1px solid gray;
+  border-radius:50px;
+}
+.onn:hover{
+  background-position: left bottom;
+  border:none;
+  box-shadow:0 0 20px rgb(255,45,45); 
+}
+
+.emd{
+  margin:auto;
+  margin-top:25px;
+}
+.emd1{
+  margin:auto;
+  margin-top:25px;
+}
+.emd2{
+  margin:auto;
+  margin-top:25px;
+}
+
+.off{
+  background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+  background-size:100% 200%;
+  transition:all .8s;
+  border:1px solid gray;
+  border-radius:50px;
+}
+.off:hover{
+  background-position: left bottom;
+  border:none;
+  box-shadow:0 0 20px rgb(255,45,45); 
+}
+
+.off1{
+  background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+  background-size:100% 200%;
+  transition:all .8s;
+  border:1px solid gray;
+  opacity:1px;
+  border-radius:50px;
+}
+.off1:hover{
+  background-position: left bottom;
+  border:none;
+  box-shadow:0 0 20px rgb(255,45,45); 
+}
+
+.off2{
+  background: linear-gradient(to top,rgb(188, 125, 8)50%,#051229 50% );
+  background-size:100% 200%;
+  transition:all .8s;
+  border:1px solid gray;
+  border-radius:50px;
+}
+.off2:hover{
+  background-position: left bottom;
+  border:none;
+  box-shadow:0 0 20px rgb(255,45,45); 
+}
+.t{
+ margin: auto;
+}
+.w{
+  margin: auto;
+}
+/* .v{
+  border:1px solid white;
+} */
+ .good{
+  width:95%;
+  margin-top:15px;
+  height:9vh;
+  font-size:25px;
+  padding-left:10px;
+  background-color:#080e1c;
+  border:1px solid white;
+ }
+ .bad{
+  width:95%;
+  height:29vh;
+  font-size:25px;
+  background-color:#080e1c;
+  border:1px solid white;
+  padding-bottom:100px;
+  padding-left:10px;
+ }
+   .option{
+    width:30%;
+    height:10vh;
+    border:1px solid white;
+    background-color:#080e1c;
+    color:white;
+    font-size:20px;
+    
+   }
+   .option:hover{
+    background-color:orange;
+    letter-spacing:1px;
+    border:1px solid blue;
+  
+   }
+   #com{
+    height:80vh;
+   }
+   @media screen and (max-width: 480px) {
+    #com{
+      display:none;
+    }
+  }
+
+
+
+
+
+
+
+   .item{
+    background-color:rgb(46, 46, 85);
+    
+   
+    height:35vh;
+   
+   }
+   .lastitem{
+   text-align:center;
+   display:block;
+   }
+   
+   #won{
+    color:white;
+   }
+   #won1{
+    color:white;
+   }
+   #won2{
+    color:white;
+   }
+   #won3{
+    color:white;
+   }
+   .newss{
+    margin: auto;
+    height:8vh;
+    width:10%;
+   }
+
+.six{
+  margin:auto;
+}
+.six1{
+  margin:auto;
+}
+.six2{
+  margin:auto;
+}
+
+
+
+@media screen and (max-width: 900px) {
+  #bigg {
+    background-color:white;
+    border: 1px solid gray;
+  }
+}
